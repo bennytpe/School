@@ -16,4 +16,4 @@ jhgjhgjgjhgjg<br>
 [yahoo](http://tw.yahoo.com)
 [school技術文件](doc/index.html)
 
-![汽車](/pic/car.jpg "Optional title")
+![汽車](/pic/car.jpg)
